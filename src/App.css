@@ -1,0 +1,10 @@
+body {
+    display: grid;
+    background-color: rgb(190, 255, 255);
+}
+
+.login {
+    margin: auto;
+    width: 300px;
+    margin: auto;
+}
